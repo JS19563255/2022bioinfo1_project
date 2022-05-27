@@ -1,2 +1,2 @@
 선택한 주제
-(★) Fig S2C 재현해보기 - bam을 직접 처리해서 error의 위치 특성을 통계적으로 파악합니다. 너무 어려우면 + strand에 splicing되지 않은 tag만 처리하면 됩니다.
+(★) Mission 3를 2J3와 polyclonal Ab 데이터에 대해서도 적용해보기 - 직접 처음부터 처리해서 Mission 3를 3개 데이터 모두에 대해 확장해봅니다.
